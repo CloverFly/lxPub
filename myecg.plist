@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--118.112.180.202-->
 <plist version="1.0">
 <dict>
 	<key>items</key>
@@ -12,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://182.92.242.29:10133/ipa/MyEcg.ipa</string>
+					<string>http://cloverfly.cn/ipa/MyEcg.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
